@@ -1,0 +1,27 @@
+@import "../../../../scss/index.scss";
+
+.add-edit-holiday-form {
+  text-align: center;
+
+  .ant-row {
+     margin-bottom: 2rem;
+  }
+
+  .ant-form-item {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    i {
+      color: rgba(0, 0, 0, 0.25);
+    }
+  }
+
+  .tox-tinymce {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .btn-submit {
+    width: 100%;
+  }
+}
